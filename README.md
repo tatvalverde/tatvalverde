@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:908/1*fqub6PrwttUIfvdmUpeYZA.jpeg)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:908/1*fqub6PrwttUIfvdmUpeYZA.jpeg)
 <h1 align="center">Hi 👋, I'm Tati Valverde</h1>
 <h3 align="center">A passionate QA Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://promikos.com/wp-content/uploads/2017/12/QA-Job-Promikos.jpg">
